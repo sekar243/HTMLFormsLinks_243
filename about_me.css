@@ -1,0 +1,53 @@
+.back, a{
+    margin-top: 5px;
+    background-color: #2880b9;
+    color: white;
+    text-decoration: none;
+    width: 70px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+}
+
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #eef2f3;
+}
+
+nav {
+    margin: 20px;
+}
+
+nav a {
+    display: inline-block;
+    background-color: #2880b9;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.konten {
+    background: white;
+    display: inline-block;
+    padding: 30px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.konten {
+    max-width: 600px;
+    margin: 30px auto; 
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: left; 
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+h3 {
+    margin-top: 15px;
+    color: #2880b9;
+}
